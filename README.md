@@ -24,7 +24,9 @@ Proyecto-Call-Center/
 │
 ├── Proyec_telecom_completo revisado.ipynb   # Notebook principal del análisis
 ├── README.md                               # Documentación del proyecto
-└── data/                                  # (Sugerido) Carpeta para datasets
+└── data/
+   └── telecom_clients.csv
+   └── telecom_dataset_new.csv
 ```
 
 > Nota: El análisis completo se encuentra en el notebook Jupyter.
